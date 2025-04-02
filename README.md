@@ -1,6 +1,6 @@
 # Bonjour, je suis Sirine Mnaffakh 👋
 
-Je suis un développeur passionné spécialisé en développement web full-stack. J'adore travailler avec Angular pour le front-end et Spring Boot pour le back-end.
+Je suis une développeuse passionnée spécialisée en développement web full-stack. J'adore travailler avec Angular pour le front-end et Spring Boot pour le back-end.
 
 ## 🚀 Mes Compétences
 - **Langages :** JavaScript, TypeScript, Java
