@@ -13,7 +13,7 @@
 ## 👩‍💻 À propos de moi
 Passionnée par l'ingénierie logicielle et titulaire d'un **Bac+5**, je conçois des applications performantes, sécurisées et scalables. Mon approche est guidée par le **Clean Code**, les principes **SOLID** et une culture **DevOps** affirmée.
 
-- 🔭 Je travaille actuellement sur **[Skill-Step](https://github.com/ton-pseudo/skill-step)**, un SaaS de gestion d'apprentissage (Learning Log).
+- 🔭 Je travaille actuellement sur **[Skill-Step](https://github.com/Sirinemn/skill-step)**, un SaaS de gestion d'apprentissage (Learning Log).
 - 🌱 Je me perfectionne sur l'intégration de l'**IA dans les architectures Java** et sur le déploiement Cloud.
 - 💬 On peut me solliciter pour des échanges sur **Angular**, **Spring Security (OAuth2)** et l'**auto-hébergement**.
 
